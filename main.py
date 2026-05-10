@@ -17,6 +17,9 @@ def hai(name):
 def test():
     print_hi('meow')
 
+def testPullCode():
+    print_hi('meow')
+
 # 按装订区域中的绿色按钮以运行脚本。
 if __name__ == '__main__':
     print_hi('PyCharm')
