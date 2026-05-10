@@ -11,6 +11,10 @@ def print_hi(name):
     print("nice to meet you!")
     print_hi('meow')
 
+def hai(name):
+    print(f'Hi, {name}')
+    print("Hello, World!")
+
 
 # 按装订区域中的绿色按钮以运行脚本。
 if __name__ == '__main__':
