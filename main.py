@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # 按 Ctrl+F8 切换断点。
     print("Hello, World!")
     print("nice to meet you!")
+    print_hi('meow')
 
 
 # 按装订区域中的绿色按钮以运行脚本。
